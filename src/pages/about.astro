@@ -1,0 +1,115 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+import ContactCTA from '../components/ContactCTA.astro';
+import Hero from '../components/Hero.astro';
+---
+
+<BaseLayout title="A propos de moi ! | Sarrazin Marine" description="A propos de SARRAZIN Marine">
+	<div class="stack gap-20">
+		<main class="wrapper about">
+			<Hero
+				title="A propos de moi"
+				tagline="Découvrez mon parcours, mes compétences et ma façon de penser!"
+			>
+				<img
+					width="1553"
+					height="873"
+					src="/assets/at-work.jpg"
+					alt="Sarrazin Marine at work"
+				/>
+			</Hero>
+
+			<section>
+				<h2 class="section-title">Qui suis-je</h2>
+				<div class="content">
+					<p>
+						Je m'appelle Marine, j'ai 24 ans et je suis née en Picardie. J'aime plus profondémment mes animaux, prendre soin de moi en faisant du sport, et j'ai aussi une autre passion (que mes amis n'ont jamais compris)... c'est lire les actualités sur les avancées en psychologie, médecine et technologies.
+						J'aime apprendre constamment, et j'aspire à devenir Psychologue en plus de mon master. Je pense qu'avoir ces deux formations fera de moi une excellente praticienne, et doctorante (oui j'aspire à faire une thèse). Vous l'aurez compris, je suis très ambitieuse, et qui sait, peut-être un jour je serais enseignante-chercheuse...
+					</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Pourquoi ce site ?</h2>
+				<div class="content">
+					<p>
+						Que ce soit pour les formations à laquelles je vise, où les entreprises, on me demande toujours une lettre de motivation. Mais celle-ci reflète toujours que l'aspect professionnel, et je n'arrive jamais à transmettre ma passion envers les domaines que je vise (faire tenir une passion en moins d'une page, c'est frustrant). Alors un site, pour moi c'est beaucoup plus approprié : elle permet au recruteur de visualiser ma personnalité, mes valeurs, et réellement ma motivation.
+					</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Formations</h2>
+				<div class="content">
+					<p>Licence de Psychologie - Reims - 2018-2021</p>
+					<p>Master Ergonomie socio-cognitive des systèmes intelligents - Jacob-Bellecombette - 2021-2023</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Certificiations</h2>
+				<div class="content">
+					<p>officia unde omnis</p>
+				</div>
+			</section>
+		</main>
+
+		<ContactCTA />
+	</div>
+</BaseLayout>
+
+<style>
+	.about {
+		display: flex;
+		flex-direction: column;
+		gap: 3.5rem;
+	}
+
+	img {
+		margin-top: 1.5rem;
+		border-radius: 1.5rem;
+		box-shadow: var(--shadow-md);
+	}
+
+	section {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+		color: var(--gray-200);
+	}
+
+	.section-title {
+		grid-column-start: 1;
+		font-size: var(--text-xl);
+		color: var(--gray-0);
+	}
+
+	.content {
+		grid-column: 2 / 4;
+	}
+
+	.content :global(a) {
+		text-decoration: 1px solid underline transparent;
+		text-underline-offset: 0.25em;
+		transition: text-decoration-color var(--theme-transition);
+	}
+
+	.content :global(a:hover),
+	.content :global(a:focus) {
+		text-decoration-color: currentColor;
+	}
+
+	@media (min-width: 50em) {
+		.about {
+			display: grid;
+			grid-template-columns: 1fr 60% 1fr;
+		}
+
+		.about > :global(:first-child) {
+			grid-column-start: 2;
+		}
+
+		section {
+			display: contents;
+			font-size: var(--text-lg);
+		}
+	}
+</style>

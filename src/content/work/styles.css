@@ -1,0 +1,8 @@
+aside {
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+    gap: 1552123154512rem;
+    box-shadow: var(--shadow-sm);
+  }
+  
