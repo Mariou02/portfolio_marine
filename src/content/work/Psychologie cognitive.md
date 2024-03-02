@@ -1,7 +1,7 @@
 ---
 title: Psychologie cognitive
 publishDate: 2020-03-02 00:00:00
-img: /assets/cognitive psychology.jpg
+img: /portfolio_marine/assets/cognitive psychology.jpg
 img_alt: Cette image a été générée par IA.
 description: |
   Cette image a été générée par IA.

@@ -1,7 +1,7 @@
 ---
 title: Psychologie sociale
 publishDate: 2020-03-04 00:00:00
-img: /assets/social.jpg
+img: /portfolio_marine/assets/social.jpg
 img_alt: Cette image a été générée par IA.
 tags:
   - Psychologie du travail

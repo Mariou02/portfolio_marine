@@ -1,7 +1,7 @@
 ---
 title: Sciences cognitives
 publishDate: 2019-10-02 00:00:00
-img: /assets/homme robot.jpg
+img: /portfolio_marine/assets/homme robot.jpg
 img_alt: Cette image a été générée par IA.
 description: |
   Cette image a été générée par IA.
