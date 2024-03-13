@@ -11,9 +11,9 @@ tags:
   - Data analyse
 ---
 
-Les sciences cognitives englobent l'étude et la modélisation interdisciplinaires des processus mentaux. La compréhension des processus cognitifs est plus qu'important, aujourd'hui, pour créer des IA réellement performantes (non, chat gpt n'est pas bon).
+Les sciences cognitives englobent l'étude et la modélisation interdisciplinaires des processus mentaux. La compréhension des processus cognitifs est plus qu'importante, aujourd'hui, pour créer des IA réellement performantes (non, chat gpt n'est pas bon).
 
-Dans cette section, je partagerais avec vous les informations concernant les avancées en neurosciences, qui permettent d'obtenir une conception de systèmes d'IA inspirés par du cerveau (mais, lequel).
+Dans cette section, je partagerai avec vous les informations concernant les avancées en neurosciences, qui permettent d'obtenir une conception de systèmes d'IA inspirés par du cerveau (mais, lequel).
 J'aime aussi beaucoup parlé des pratique de l'IA, de l'éthique, des responsabilités, des enjeux pédagogiques, de la philosophie derrière cette création de l'Homme. Je vous parlerai aussi du droit (RGPD et LIL), je préfère vous le dire d'avance : je ne suis pas une spécialiste du droit, et je n'aime pas ça. Mais à l'heure actuelle, il ne faut pas fermer les yeux sur ce genre de problématique, alors je me renseigne.
 
 <!-- a copier -->
@@ -38,8 +38,20 @@ J'aime aussi beaucoup parlé des pratique de l'IA, de l'éthique, des responsabi
 
 <!-- jusq'ici -->   
 
- 
-
+ <p>
+  <a href="https://drive.google.com/file/d/1hJl-pbeTaOh13iWGuxOT4OAaYYRguT2v/view?usp=sharing" download="Modélisation et réseaux de neurones formels : décoder le langage des signes et prédire le genre musical !" data-astro-cid-rcdzuq3a="">
+    <button class="button-container" data-astro-cid-rcdzuq3a="">
+    <div class="hook">&#x21AA;</div> <!-- Unicode character for hook -->
+      Projet "Modélisation et réseaux de neurones formels : décoder le langage des signes et prédire le genre musical !"
+    </button>  
+    </a>
+<p>
+  <a href="https://drive.google.com/file/d/13GkNrRxyEruJdyJK2yxKsy_gaQS9djUr/view?usp=sharing" download="Modélisation de fonctions cognitives : la prise de décision en dual-process" data-astro-cid-rcdzuq3a="">
+    <button class="button-container" data-astro-cid-rcdzuq3a="">
+    <div class="hook">&#x21AA;</div> <!-- Unicode character for hook -->
+      Projet "odélisation de fonctions cognitives : la prise de décision en dual-process"
+    </button>  
+    </a>
 <style>
     /* Styles for the button container */
     .button-container {

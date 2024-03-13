@@ -30,13 +30,41 @@ Dans cette section, vous trouverez mes dossiers universitaires, mais aussi perso
 
 
 
+<p>
+  <a href="https://drive.google.com/file/d/1LY8ks-dorRgrFWe1-Spnlijg05icYjKc/view?usp=sharing" download="Le pouvoir de l'influence minoritaire: une force sous-estimée qui peut faire la différence ! " data-astro-cid-rcdzuq3a="">
+    <button class="button-container" data-astro-cid-rcdzuq3a="">
+    <div class="hook">&#x21AA;</div> <!-- Unicode character for hook -->
+       Le pouvoir de l'influence minoritaire: une force sous-estimée qui peut faire la différence !"
+    </button>  
+  </a>
+</p>
+<!-- jusq'ici -->   
+
 <style>
-   button {
-    display: flex;
-    flex-direction: column;
-    background-color: purple;
-    box-shadow: black;
-    color: white;
-    border:none;
-  }
+    /* Styles for the button container */
+    .button-container {
+        display: inline-flex;
+        align-items: center;
+        justify-content: space-between;
+        background: linear-gradient(to right, #6e0dd0, #ff0066);
+        box-shadow: 0 3px 6px rgba(255, 255, 255, 0.5); /* White shadow added */
+        color: white;
+        border: none;
+        padding: 10px;
+        font-size: 16px;
+        border-radius: 20px;
+        cursor: pointer;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .hook {
+        font-size: 20px;
+        padding: 10px;
+    }
+
+    /* Hover styles */
+    .button-container:hover {
+        background: linear-gradient(to right, #ff0066, #6e0dd0);
+    }
 </style>

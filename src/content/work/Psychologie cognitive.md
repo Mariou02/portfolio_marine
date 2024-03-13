@@ -13,7 +13,7 @@ tags:
   - Système nerveux
 ---
 
-La psychologie cognitive (PC) a toujours été pour moi une curiosité innée, mais je n'ai jamais compris pourquoi j'ai toujours été attirée par ce domaine d'étude. Pour moi, cette branche de la psychologie ne va pas sans la psychologie sociale (PS) pour la simple et bonne raison que le raisonnement (PC) que produit un être humain effectue un comportement (PS) en fonction de l'expérience. Ces deux domaines s'entremêlent, constamment. C'est sûrement cette complexité qui fait que... je suis passionnée. Je n'ai jamais aimé les choses simples, je choisis toujours la difficulté (#biais de complexité bonjour).
+La psychologie cognitive (PC) a toujours suscité en moi une curiosité innée, sans que je sache réellement pourquoi. Pour moi, cette branche de la psychologie ne va pas sans la psychologie sociale (PS) pour la simple et bonne raison que le raisonnement (PC) que produit un être humain effectue un comportement (PS) en fonction de l'expérience. Ces deux domaines s'entremêlent, constamment. C'est sûrement cette complexité qui fait que... je suis passionnée. Je n'ai jamais aimé les choses simples, je choisis toujours la difficulté (#biais de complexité bonjour).
 
 Dans cette section, vous retrouverez beaucoup plus mes projets personnels qu'universitaires.
 
