@@ -49,7 +49,7 @@ J'aime aussi beaucoup parlé des pratique de l'IA, de l'éthique, des responsabi
   <a href="https://drive.google.com/file/d/13GkNrRxyEruJdyJK2yxKsy_gaQS9djUr/view?usp=sharing" download="Modélisation de fonctions cognitives : la prise de décision en dual-process" data-astro-cid-rcdzuq3a="">
     <button class="button-container" data-astro-cid-rcdzuq3a="">
     <div class="hook">&#x21AA;</div> <!-- Unicode character for hook -->
-      Projet "odélisation de fonctions cognitives : la prise de décision en dual-process"
+      Projet "Modélisation de fonctions cognitives : la prise de décision en dual-process"
     </button>  
     </a>
 <style>
